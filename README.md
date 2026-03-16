@@ -11,9 +11,12 @@ O cartão de memória (Memory Card) original do PS1 tem uma capacidade de 1 MB (
 O PlayStation 1 (PS1) possuía uma variedade de periféricos de entrada e saída que definiram sua geração (1994-2006). Eles variam entre os controles padrão e acessórios especializados para aumentar a imersão nos jogos.
 
 Ps5
-A Unidade Lógica e Aritmética (ULA) ou Arithmetic Logic Unit (ALU) do PlayStation 5 é parte integrante da sua APU (Unidade de Processamento Acelerado) personalizada, projetada pela AMD. Ela faz parte da arquitetura RDNA 2 na GPU e da arquitetura Zen 2 na CPU, oferecendo alto poder de processamento para jogos.  
+A Unidade Lógica e Aritmética (ULA) ou Arithmetic Logic Unit (ALU) do PlayStation 5 é parte integrante da sua APU (Unidade de Processamento Acelerado) personalizada, projetada pela AMD. Ela faz parte da arquitetura RDNA 2 na GPU e da arquitetura Zen 2 na CPU, oferecendo alto poder de processamento para jogos.
+
 O fluxo de ar e a refrigeração do PlayStation 5 (PS5) foram projetados de forma coordenada para garantir alta performance sem superaquecimento, utilizando uma abordagem de "entrada dupla" e componentes de alta eficiência. 
-O PlayStation 5 original possui um SSD de 825 GB, mas o espaço utilizável para jogos é de aproximadamente 667 GB devido ao sistema operacional. Modelos mais recentes, como o PS5 Slim, podem vir com 1 TB de armazenamento, e o PS5 Pro possui 2 TB.	
+
+O PlayStation 5 original possui um SSD de 825 GB, mas o espaço utilizável para jogos é de aproximadamente 667 GB devido ao sistema operacional. Modelos mais recentes, como o PS5 Slim, podem vir com 1 TB de armazenamento, e o PS5 Pro possui 2 TB.
+
 O PlayStation 5 (PS5) possui diversos periféricos de entrada (para comandos e dados) e saída (para exibição e áudio), tanto nativos quanto compatíveis via USB/Bluetooth. 
 
 PRINCIPAIS DIFERENÇAS CONCEITUAIS:
