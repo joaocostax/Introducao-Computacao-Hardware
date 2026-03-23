@@ -1,7 +1,7 @@
 # Introducao-Computacao-Hardware
 Atividade de Introdução a Computação
 
-Atividade de Investigação: Arqueologia Digital e a Evolução dos Componentes Gianne Clarice, Guilherme Valadão, João Miguel e Davi Lemes.
+Atividade de Investigação: 09/03/26 - Arqueologia Digital e a Evolução dos Componentes Gianne Clarice, Guilherme Valadão, João Miguel e Davi Lemes.
 
 Ps1 As Unidades Lógicas e Aritméticas (ULA) do PlayStation 1 (PS1) faziam parte da CPU principal, Suma LSI R3000A customizada (RISC) de 32 bits, que operava a uma frequência de 33.86 MHz.
 
