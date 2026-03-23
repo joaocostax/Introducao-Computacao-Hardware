@@ -59,8 +59,9 @@ https://www.desertcart.in/products/253947734-hyperkin-tomee-1mb-memory-card-for-
 
 https://www.computinghistory.org.uk/cgi/archive.pl?order=Date&platform=Playstation%201&type=Peripherals
 
-
-
+-
+-
+-
 Atividade Dispositivos ES 16-03
 
 Liste 5 dispositivos que utilize no dia a dia e classifique-os em:
