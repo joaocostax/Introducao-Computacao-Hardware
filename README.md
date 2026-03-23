@@ -1,7 +1,7 @@
 # Introducao-Computacao-Hardware
 Atividade de Introdução a Computação
 
-Atividade de Investigação: Arqueologia Digital e a Evolução dos Componentes
+Atividade de Investigação: Arqueologia Digital e a Evolução dos Componentes 09/03/26.
 Gianne Clarice, Guilherme Valadão, João Miguel e Davi Lemes.
 
 
@@ -58,3 +58,32 @@ https://www.gosugamers.net/entertainment/news/77339-playstation-5-update-makes-d
 https://www.desertcart.in/products/253947734-hyperkin-tomee-1mb-memory-card-for-ps1
 
 https://www.computinghistory.org.uk/cgi/archive.pl?order=Date&platform=Playstation%201&type=Peripherals
+
+
+
+Atividade Dispositivos ES 16-03
+
+Liste 5 dispositivos que utilize no dia a dia e classifique-os em:
+
+Entrada, Saída e Entrada/Saída
+
+Celular - Entrada/Saída
+Computador - Entrada/Saída
+HD externo - Entrada/Saída
+Teclado - Entrada
+Fone - Saída
+
+2. Explique, em até duas frases por item, como cada dispositivo se conecta ao sistema operacional e qual é sua função principal.
+
+Celular (Entrada/Saída): conecta-se ao SO por sensores e rede. Permite enviar e receber dados.
+Computador (Entrada/Saída): conecta-se ao SO por hardware e drivers. Processa e executa tarefas.
+HD externo (Entrada/Saída): conecta via USB ao SO. Armazena e transfere arquivos.
+Teclado (Entrada): envia sinais ao SO. Permite digitar dados.
+Fone (Saída): recebe áudio do SO. Reproduz sons.
+
+3. Responda: 
+ 
+O computador funcionaria internamente, mas não daria para ver, nem ouvir nada, e nem saber o resultado das ações.
+
+Porque permitem enviar e receber dados entre sistemas. Sem eles, não daria para ter troca de informações, nem comunicação entre dispositivos. 
+
